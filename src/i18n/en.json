@@ -1,0 +1,664 @@
+{
+  "meta": {
+    "lang": "en",
+    "dir": "ltr",
+    "ogLocale": "en_US",
+    "intl": "en-GB",
+    "siteName": "Abnauona Institute Abroad",
+    "brandShort": "Abnauona Institute",
+    "brandLatin": "أبناؤنا في الخارج",
+    "tagline": "Authentic Egyptian education… for our children abroad",
+    "langName": "English",
+    "switchTo": "العربية",
+    "switchToShort": "ع",
+    "switchLabel": "التبديل إلى العربية — Switch to Arabic",
+    "logoAlt": "Abnauona Institute logo"
+  },
+
+  "pages": {
+    "home":       { "title": "Abnauona Institute | Egyptian Curriculum in Ajman, UAE", "description": "The first institute in the UAE dedicated to Egyptian community children and Egyptian Embassy students: Egyptian curriculum (Arabic & Languages) from KG to secondary, activities and transport to Ajman, Sharjah & Dubai. Book a seat today." },
+    "about":      { "title": "About Us | Abnauona Institute Abroad", "description": "Discover the story, vision, mission and values of Abnauona Institute, and why Egyptian families in the UAE trust us with their children's education." },
+    "programs":   { "title": "Programs – Arabic & Languages Tracks | Abnauona Institute", "description": "KG, primary, preparatory and secondary stages following the official Egyptian curriculum in Arabic and Languages tracks, with annual fees for each stage." },
+    "activities": { "title": "Activities – Art, Music, Sports & Trips | Abnauona Institute", "description": "Drawing, music, sports, celebrations, trips and the annual graduation ceremony at Abnauona Institute Abroad." },
+    "fees":       { "title": "Tuition Fees 2026/2027 & Fee Calculator | Abnauona Institute", "description": "2026/2027 tuition fees in AED for every stage (Arabic & Languages), books, uniform, registration and transport — with an instant fee calculator, installments and sibling discounts." },
+    "calendar":   { "title": "Academic Calendar 2026/2027 | Abnauona Institute", "description": "Start of the year, second term, midterm and final exams and end of the 2026/2027 school year — add any date to your calendar." },
+    "gallery":    { "title": "Photo Gallery | Abnauona Institute Abroad", "description": "Photos of the Abnauona Institute building in Ajman, its activities, celebrations and graduation." },
+    "booking":    { "title": "Book a Seat – Online Registration | Abnauona Institute", "description": "Register your child in four steps: choose the stage, track and services, get an instant preliminary invoice and send the request straight to WhatsApp." },
+    "thanks":     { "title": "Your request is ready | Abnauona Institute", "description": "Thank you for registering with Abnauona Institute Abroad." },
+    "faq":        { "title": "FAQ | Abnauona Institute Abroad", "description": "Answers about the curriculum, embassy exams, transport, installments, sibling discounts and the documents required for registration." },
+    "news":       { "title": "News & Announcements | Abnauona Institute Abroad", "description": "Latest news and announcements from Abnauona Institute: registration, academic dates, celebrations and events." },
+    "contact":    { "title": "Contact Us – Ajman | Abnauona Institute Abroad", "description": "Abnauona Institute, Al Tallah Street, Ajman: phone numbers, WhatsApp, email and location map." },
+    "privacy":    { "title": "Privacy Policy | Abnauona Institute Abroad", "description": "How Abnauona Institute Abroad collects, uses and protects data." },
+    "terms":      { "title": "Terms & Conditions | Abnauona Institute Abroad", "description": "Terms and conditions for using the Abnauona Institute website and registration requests." },
+    "notFound":   { "title": "Page not found | Abnauona Institute", "description": "The requested page could not be found." }
+  },
+
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "programs": "Programs",
+    "activities": "Activities",
+    "fees": "Fees",
+    "calendar": "Calendar",
+    "gallery": "Gallery",
+    "news": "News",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "book": "Book a Seat",
+    "menu": "Open menu",
+    "closeMenu": "Close menu",
+    "skip": "Skip to main content",
+    "mainLabel": "Main navigation"
+  },
+
+  "announcement": {
+    "text": "Registration is open for the 2026/2027 school year — limited seats",
+    "cta": "Register now",
+    "close": "Dismiss announcement"
+  },
+
+  "common": {
+    "currency": "AED",
+    "perYear": "per year",
+    "perTerm": "per term",
+    "from": "From",
+    "readMore": "Read more",
+    "learnMore": "Learn more",
+    "bookNow": "Book now",
+    "bookStage": "Book this stage",
+    "viewPoster": "View the official poster",
+    "close": "Close",
+    "next": "Next",
+    "prev": "Previous",
+    "breadcrumb": "Breadcrumb",
+    "whatsapp": "WhatsApp",
+    "callUs": "Call us",
+    "chatWhatsapp": "Chat with us on WhatsApp",
+    "waGreeting": "Hello, I would like to ask about registration at Abnauona Institute.",
+    "callNow": "Call now",
+    "arabicTrack": "Arabic",
+    "languagesTrack": "Languages",
+    "yes": "Yes",
+    "no": "No"
+  },
+
+  "hero": {
+    "kicker": "Egyptian curriculum · Arabic & Languages · KG to Secondary",
+    "title1": "Authentic Egyptian education…",
+    "title2": "for our children abroad",
+    "lead": "The first educational institute in the UAE founded to serve the children of the Egyptian community and Egyptian Embassy students — delivering the best education by outstanding teachers.",
+    "ctaBook": "Book a seat now",
+    "ctaFees": "View tuition fees",
+    "imageAlt": "Abnauona Institute façade in Ajman at night, with golden lighting and its ornate gate"
+  },
+
+  "countdown": {
+    "label": "Countdown",
+    "until": "Time left until",
+    "days": "Days",
+    "hours": "Hours",
+    "minutes": "Minutes",
+    "seconds": "Seconds",
+    "done": "The 2026/2027 school year has ended — the new academic calendar is coming soon."
+  },
+
+  "stats": {
+    "title": "Abnauona in numbers",
+    "years": "Years of dedication",
+    "students": "Students",
+    "teachers": "Teachers",
+    "activities": "Activities & events a year"
+  },
+
+  "home": {
+    "aboutKicker": "About us",
+    "aboutTitle": "An Egyptian home for learning… in the heart of the UAE",
+    "aboutText": "At Abnauona, Egyptian children abroad find their home country's curriculum, teachers who understand them and an atmosphere that feels like home. We walk with families from kindergarten to secondary school, prepare students for the official exams in coordination with the Egyptian Embassy, and run activities that build confident, creative personalities.",
+    "aboutPoints": ["Official Egyptian curriculum — Arabic & Languages tracks", "Specialist teachers and individual follow-up", "Safe transport to Ajman, Sharjah and Dubai"],
+    "aboutCta": "Read our story",
+    "programsKicker": "Programs",
+    "programsTitle": "From kindergarten to secondary",
+    "programsLead": "Two study tracks — Arabic and Languages — following the official Egyptian curriculum, with clear fees for every stage.",
+    "activitiesKicker": "Activities",
+    "activitiesTitle": "Building character… not just grades",
+    "activitiesLead": "Art, music, sports, celebrations and trips — plus an annual graduation ceremony our children deserve.",
+    "activitiesCta": "Explore all activities",
+    "feesKicker": "Tuition fees",
+    "feesTitle": "Clear fees… no surprises",
+    "feesLead": "Annual tuition starts from AED {min}, with installment plans and a special sibling discount.",
+    "feesPoints": ["Flexible installments", "Sibling discount", "Optional transport", "Instant fee calculator"],
+    "feesCta": "Fees table & calculator",
+    "calendarKicker": "Academic calendar",
+    "calendarTitle": "Key dates for 2026/2027",
+    "calendarCta": "Full academic calendar",
+    "galleryKicker": "Gallery",
+    "galleryTitle": "A glimpse inside the institute",
+    "galleryCta": "View the full gallery",
+    "testimonialsKicker": "Parents' voices",
+    "testimonialsTitle": "Trust we are proud of",
+    "newsKicker": "News & announcements",
+    "newsTitle": "Latest updates",
+    "newsCta": "All news",
+    "ctaTitle": "Your child's seat is waiting",
+    "ctaText": "Book in two minutes and get an instant preliminary invoice — your request goes straight to the administration on WhatsApp.",
+    "ctaWhatsapp": "Message us on WhatsApp"
+  },
+
+  "about": {
+    "title": "About Us",
+    "lead": "The first educational institute in the UAE founded to serve the children of the Egyptian community and Egyptian Embassy students.",
+    "storyKicker": "Our story",
+    "storyTitle": "A story that began with every Egyptian family's question abroad",
+    "story": [
+      "How can our children keep their country's curriculum, language and identity while living far from Egypt? From that question, Abnauona Institute Abroad was born in the Emirate of Ajman — the first educational institute in the UAE dedicated to serving the children of the Egyptian community and Egyptian Embassy students.",
+      "We teach the official Egyptian curriculum, in both Arabic and Languages tracks, from kindergarten to secondary school. Our outstanding teachers know the curriculum and know their students, and we prepare students for the official exams in coordination with the Embassy.",
+      "Within walls that carry the spirit of Egyptian temples — glowing lotus columns and ornate gates — our children learn, draw, play music, compete and celebrate, growing up knowing who they are and where they come from."
+    ],
+    "visionTitle": "Our vision",
+    "vision": "To be the first educational home for every Egyptian family in the UAE — graduating an outstanding generation, proud of its identity and ready to compete anywhere.",
+    "missionTitle": "Our mission",
+    "mission": "To deliver authentic, high-quality Egyptian education in a safe and inspiring environment, through outstanding teachers, talent-building activities and a genuine partnership with families.",
+    "valuesKicker": "Our values",
+    "valuesTitle": "What we believe in",
+    "values": [
+      { "icon": "ankh", "title": "Belonging", "text": "We connect our children with their Egyptian language, history and identity." },
+      { "icon": "check", "title": "Excellence", "text": "We hold every lesson to the highest standards of teaching and follow-up." },
+      { "icon": "shield", "title": "Safety", "text": "A disciplined, safe environment that students and parents trust." },
+      { "icon": "palette", "title": "Creativity", "text": "We discover and nurture talent through art, music and sports." },
+      { "icon": "users", "title": "Partnership", "text": "Continuous, transparent communication with families at every step." }
+    ],
+    "whyKicker": "Why us?",
+    "whyTitle": "Why families choose Abnauona",
+    "why": [
+      { "icon": "scroll", "title": "Official Egyptian curriculum", "text": "Arabic and Languages tracks from Pre KG to secondary, with full preparation for the official exams in coordination with the Embassy." },
+      { "icon": "teacher", "title": "Outstanding teachers", "text": "Experienced specialists in the Egyptian curriculum, with individual follow-up for every student." },
+      { "icon": "shield", "title": "Safe, inspiring environment", "text": "A carefully equipped building with constant supervision and a warm Egyptian, home-like atmosphere." },
+      { "icon": "bus", "title": "Convenient transport", "text": "Optional bus service covering Ajman, Sharjah and Dubai." },
+      { "icon": "palette", "title": "Rich activities", "text": "Art, music, sports, celebrations, trips and an annual graduation ceremony." },
+      { "icon": "wallet", "title": "Flexible fees", "text": "Clear fees with installment options and a special sibling discount." }
+    ],
+    "imageAlt": "The ornate gate and Pharaonic columns of Abnauona Institute by day",
+    "corridorAlt": "Corridor of glowing Pharaonic lotus columns inside Abnauona Institute",
+    "graduationAlt": "Group photo of teachers and staff at the 2025 graduation ceremony"
+  },
+
+  "programs": {
+    "title": "Programs",
+    "lead": "The official Egyptian curriculum from kindergarten to secondary — in two tracks: Arabic and Languages.",
+    "tracksKicker": "Tracks",
+    "tracksTitle": "Two study tracks… your choice",
+    "tracks": {
+      "arabic": { "name": "Arabic track", "text": "Subjects are taught in Arabic following the Egyptian national curriculum, with English as a core subject." },
+      "languages": { "name": "Languages track", "text": "Maths and science are taught in English following the Egyptian language-schools curriculum, with strengthened English skills alongside Arabic, religion and social studies." }
+    },
+    "stagesKicker": "Stages",
+    "stagesTitle": "A complete learning journey",
+    "grades": "Grades",
+    "ages": "Ages",
+    "feesFrom": "Annual tuition",
+    "includes": "What your child gets",
+    "stages": {
+      "kg": {
+        "name": "Kindergarten",
+        "grades": "Pre KG · KG1 · KG2",
+        "ages": "3 to 6 years",
+        "text": "A happy start to learning: early reading and writing in Arabic and English, plus numeracy — through play, sensory activities and stories.",
+        "points": ["Letters and numbers foundations", "Daily art and movement activities", "Social skills and self-confidence"]
+      },
+      "primary": {
+        "name": "Primary Stage",
+        "grades": "Grade 1 to Grade 6",
+        "ages": "6 to 12 years",
+        "text": "Building solid foundations in Arabic, maths, science and English, with close follow-up of every student's level.",
+        "points": ["Grades 1–3: foundations and core skills", "Grades 4–6: deeper learning and prep-stage readiness", "Continuous assessment and regular family updates"]
+      },
+      "prep": {
+        "name": "Preparatory Stage",
+        "grades": "Prep 1 to Prep 3",
+        "ages": "12 to 15 years",
+        "text": "A stage for building character and study skills, with focused preparation for the preparatory certificate exams.",
+        "points": ["Simplified explanations and regular revision", "Mock exams in the official format", "Educational guidance and mentoring"]
+      },
+      "secondary": {
+        "name": "Secondary Stage",
+        "grades": "Secondary 1 to Secondary 3",
+        "ages": "15 to 18 years",
+        "text": "Serious preparation for the most important stage, with individual follow-up and intensive training on the official exam system.",
+        "points": ["Specialist teachers for every subject", "Revision plans and mock exams", "Close academic follow-up with families"]
+      }
+    }
+  },
+
+  "stages": {
+    "kg":   { "name": "Kindergarten", "grades": "Pre KG / KG1 / KG2" },
+    "p13":  { "name": "Primary (1 – 3)", "grades": "Grades 1 / 2 / 3" },
+    "p46":  { "name": "Primary (4 – 6)", "grades": "Grades 4 / 5 / 6" },
+    "prep": { "name": "Preparatory", "grades": "Prep 1 – Prep 3" },
+    "sec":  { "name": "Secondary", "grades": "Secondary 1 – Secondary 3" }
+  },
+
+  "tracks": {
+    "arabic": "Arabic",
+    "languages": "Languages"
+  },
+
+  "zones": {
+    "none": "No transport needed",
+    "ajman": "Ajman",
+    "sharjah": "Sharjah",
+    "dubai": "Dubai"
+  },
+
+  "emirates": {
+    "ajman": "Ajman",
+    "sharjah": "Sharjah",
+    "dubai": "Dubai",
+    "abudhabi": "Abu Dhabi",
+    "uaq": "Umm Al Quwain",
+    "rak": "Ras Al Khaimah",
+    "fujairah": "Fujairah"
+  },
+
+  "activities": {
+    "title": "Activities",
+    "lead": "Because education is more than a textbook — we discover and nurture our children's talents all year long.",
+    "items": [
+      { "id": "drawing", "icon": "palette", "title": "Drawing & Art", "text": "Drawing, colouring and craft workshops that unleash imagination, with exhibitions of students' work." },
+      { "id": "music", "icon": "music", "title": "Music", "text": "Learning the violin and other instruments, plus rehearsals for songs and performances." },
+      { "id": "sports", "icon": "trophy", "title": "Sports", "text": "Sports activities and competitions that build fitness, team spirit and discipline." },
+      { "id": "parties", "icon": "balloon", "title": "Celebrations", "text": "Celebrating Eid and Egyptian and Emirati national occasions, with performances by our students." },
+      { "id": "trips", "icon": "pyramid", "title": "Trips", "text": "Safe educational and recreational trips that combine fun with learning." },
+      { "id": "graduation", "icon": "cap", "title": "Annual Graduation", "text": "A yearly ceremony worthy of our children, celebrating their achievements with families and teachers." }
+    ],
+    "highlightKicker": "Graduation",
+    "highlightTitle": "A moment everyone is proud of",
+    "highlightText": "Every year we celebrate a new class of graduates in a ceremony that brings together students, families, teachers and staff — a memory that stays with them for life."
+  },
+
+  "fees": {
+    "title": "Tuition Fees 2026/2027",
+    "lead": "Clear annual fees in UAE dirhams for every stage and track, with installment plans and a special sibling discount.",
+    "tableKicker": "Fees table",
+    "tableTitle": "Annual tuition by stage",
+    "tableCaption": "Annual tuition fees for 2026/2027 in UAE dirhams (AED)",
+    "thStage": "Stage",
+    "thArabic": "Arabic",
+    "thLanguages": "Languages",
+    "thBooks": "Books (per term)",
+    "trackFilter": "Highlight track:",
+    "trackAll": "All",
+    "extrasTitle": "Additional fees",
+    "uniform": "Uniform (5 pieces)",
+    "registration": "Registration fee",
+    "busBooking": "Bus booking fee",
+    "transportTitle": "Transport",
+    "transportNote": "Optional — per year",
+    "benefitsTitle": "Family benefits",
+    "siblings": "Sibling discount",
+    "siblingsText": "A discount for siblings enrolled at the institute — the amount is confirmed with the administration.",
+    "installments": "Installment plans",
+    "installmentsText": "Split the tuition into payments that suit you, agreed with the administration.",
+    "calcKicker": "Fee calculator",
+    "calcTitle": "Estimate your total in seconds",
+    "calcLead": "Choose the stage and services to see the preliminary total, then continue to booking with the same choices in one click.",
+    "calcStage": "Stage",
+    "calcTrack": "Track",
+    "calcBooks": "Books",
+    "calcTransport": "Transport",
+    "calcUniform": "Add uniform (AED 300)",
+    "calcTotal": "Estimated total",
+    "calcContinue": "Continue booking with these choices",
+    "calcNote": "Estimate includes the registration fee; sibling discounts and installment details are confirmed with the administration.",
+    "booksOne": "One term",
+    "booksBoth": "Both terms",
+    "posterTitle": "Official fees announcement",
+    "posterAlt": "Official Abnauona Institute tuition fees poster for 2026/2027"
+  },
+
+  "calendar": {
+    "title": "Academic Calendar 2026/2027",
+    "lead": "Every school-year date in one place — add any date to your phone's calendar in one tap.",
+    "events": {
+      "year-start": "First day of the school year",
+      "t1-midterm": "Midterm exams – Term 1",
+      "t1-final": "Final exams – Term 1",
+      "t1-end": "End of Term 1",
+      "t2-start": "Start of Term 2",
+      "t2-midterm": "Midterm exams – Term 2",
+      "t2-final": "Final exams – Term 2",
+      "year-end": "End of the school year"
+    },
+    "types": {
+      "start": "Start",
+      "midterm": "Midterm",
+      "final": "Final",
+      "end": "End"
+    },
+    "addToCalendar": "Add to calendar",
+    "downloadAll": "Add all dates to your calendar",
+    "past": "Done",
+    "upcoming": "Up next",
+    "today": "Today",
+    "note": "Dates follow the institute's official announcement and may change according to official decisions — any update will appear here immediately.",
+    "posterTitle": "Official academic calendar announcement",
+    "posterAlt": "Official Abnauona Institute academic calendar poster for 2026/2027",
+    "icsDescription": "Abnauona Institute Abroad – Academic Calendar 2026/2027"
+  },
+
+  "gallery": {
+    "title": "Photo Gallery",
+    "lead": "A photo tour of the institute's building, activities and celebrations.",
+    "filterLabel": "Filter photos by category",
+    "filters": {
+      "all": "All",
+      "building": "Building",
+      "activities": "Activities",
+      "events": "Celebrations",
+      "graduation": "Graduation"
+    },
+    "open": "Enlarge photo",
+    "counter": "{i} of {n}",
+    "items": {
+      "facade-night": "The institute's façade at night with its golden lighting",
+      "column-detail": "A glowing Pharaonic lotus column bearing the institute's logo",
+      "graduation-2025": "Class of 2025 graduation ceremony",
+      "gate-detail": "Details of the ornate copper gate",
+      "ph-drawing": "Drawing & art workshop",
+      "corridor": "Corridor of glowing Pharaonic columns",
+      "ph-music": "Music and instrument lessons",
+      "ph-celebration": "Institute celebrations and events",
+      "sign-night": "The illuminated institute sign above the gate",
+      "ph-sports": "Sports activities",
+      "facade-day": "The institute's gate and columns by day",
+      "ph-trip": "Educational trips",
+      "ph-national-day": "Celebrating national occasions"
+    }
+  },
+
+  "testimonials": {
+    "_note": "Sample testimonials — replace them with real parent reviews before launch",
+    "label": "Parents' testimonials",
+    "prev": "Previous testimonial",
+    "next": "Next testimonial",
+    "goTo": "Show testimonial {n}",
+    "items": [
+      { "text": "What reassured us most is that our daughter studies the same curriculum as in Egypt, in the same spirit, and her teachers keep us updated constantly. We saw a clear difference in her level from the first term.", "author": "Parent of a student", "detail": "Grade 4 Primary – Languages" },
+      { "text": "The activities made my son love going to the institute, especially drawing and music. The organisation of the celebrations and graduation day was wonderful.", "author": "Parent of a student", "detail": "Kindergarten KG2" },
+      { "text": "The bus is punctual, reaching the administration on WhatsApp is easy, and the installments helped us a lot with more than one child enrolled.", "author": "Mother of three students", "detail": "Primary & Preparatory stages" },
+      { "text": "The revision sessions and mock exams before the embassy exams were a key reason for my son's excellent results this year.", "author": "Parent of a student", "detail": "Preparatory stage – Arabic" }
+    ]
+  },
+
+  "news": {
+    "title": "News & Announcements",
+    "lead": "Follow the institute's latest announcements, dates and events.",
+    "tags": {
+      "registration": "Registration",
+      "academic": "Academic",
+      "events": "Events"
+    },
+    "items": [
+      { "id": "school-year-start", "date": "2026-09-14", "tag": "academic", "image": "facade-day", "title": "The 2026/2027 school year is underway", "text": "The new school year began on Monday, 14 September 2026. We wish all our students a year full of excellence and success." },
+      { "id": "calendar-2026", "date": "2026-08-20", "tag": "academic", "image": "poster-calendar", "title": "Academic calendar for 2026/2027 announced", "text": "The institute is pleased to announce the 2026/2027 academic calendar, with all exam dates and the start and end of both terms." },
+      { "id": "registration-open", "date": "2026-08-01", "tag": "registration", "image": "poster-fees", "title": "Registration now open for a new intake", "text": "The institute announces that registration is open for a new intake of Egyptian community children and Egyptian Embassy students, with installment plans and sibling discounts." },
+      { "id": "graduation-2025", "date": "2025-06-20", "tag": "events", "image": "graduation-2025", "title": "Class of 2025 graduation ceremony", "text": "The institute celebrated the graduation of the Class of 2025 in a joyful ceremony bringing together students, families, teachers and staff." }
+    ]
+  },
+
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "lead": "Quick answers to what parents ask most. Can't find your answer? Message us on WhatsApp.",
+    "stillQuestion": "Still have a question?",
+    "stillText": "Our team will reply on WhatsApp as soon as possible.",
+    "items": [
+      { "q": "Which curriculum does the institute teach?", "a": "We teach the official Egyptian curriculum in both tracks (Arabic and Languages) from Pre KG to secondary, delivered by teachers who specialise in the Egyptian curriculum." },
+      { "q": "What is the difference between the Arabic and Languages tracks?", "a": "In the Arabic track, subjects are taught in Arabic with English as a core subject. In the Languages track, maths and science are taught in English following the Egyptian language-schools curriculum." },
+      { "q": "How do exams work in coordination with the Embassy?", "a": "Students study the curriculum at the institute throughout the year, and we prepare them for the official exams for Egyptian students abroad, which are held in coordination with the Egyptian Embassy. We keep parents informed of dates and procedures and run revision sessions and mock exams beforehand." },
+      { "q": "Is transport available, and which areas does it cover?", "a": "Yes. Transport is optional and covers Ajman (AED 3,000 per year), Sharjah (AED 3,500) and Dubai (AED 4,500), plus a AED 200 bus booking fee." },
+      { "q": "Can tuition fees be paid in installments?", "a": "Yes, installments are available. Choose \"Installments\" when booking and the administration will contact you to agree on the number and timing of payments." },
+      { "q": "Is there a sibling discount?", "a": "Yes, there is a special discount for siblings enrolled at the institute. Enter the number of siblings in the booking form and the administration will confirm the discount with you." },
+      { "q": "Which documents are required for registration?", "a": "A copy of the student's birth certificate, passport copies of the student and guardian, a copy of the UAE residence visa or Emirates ID, recent personal photos of the student, and the last school-year certificate (except kindergarten). The administration may request additional documents depending on the stage." },
+      { "q": "Do the fees include books and uniform?", "a": "No, tuition is separate. Books are charged per term depending on the stage (AED 150 to 300), the 5-piece uniform is AED 300 and the registration fee is AED 300." },
+      { "q": "How do I book a seat for my child?", "a": "On the \"Book a Seat\" page, choose the stage, track and services, enter your details and send the request via WhatsApp in one tap. The administration will contact you to confirm the booking and complete the process." },
+      { "q": "Can my child join during the school year?", "a": "Please contact the administration to check availability of seats in the required stage." }
+    ]
+  },
+
+  "booking": {
+    "title": "Book a Seat",
+    "lead": "Four simple steps… and your request goes straight to the administration on WhatsApp.",
+    "formLabel": "School seat booking form",
+    "steps": [
+      { "title": "Package", "sub": "Stage & track" },
+      { "title": "Services", "sub": "Transport & extras" },
+      { "title": "Details", "sub": "Student & guardian" },
+      { "title": "Send", "sub": "Review & confirm" }
+    ],
+    "stepOf": "Step {n} of {total}",
+    "stageHeading": "Choose the school stage",
+    "trackHeading": "Choose the track",
+    "tuitionLabel": "Annual tuition",
+    "pickStage": "Choose a stage and track to see the price",
+    "transportHeading": "Transport",
+    "transportHint": "The bus booking fee (AED {bus}) is added automatically when you choose an emirate.",
+    "uniformHeading": "Uniform",
+    "uniformLabel": "I need the uniform (5 pieces)",
+    "booksHeading": "Books",
+    "booksOne": "One term",
+    "booksBoth": "Both terms (full year)",
+    "paymentHeading": "Payment method",
+    "cash": "Cash (full payment)",
+    "installments": "Installments",
+    "installmentsHint": "The number and timing of installments are agreed with the administration.",
+    "studentHeading": "Student details",
+    "studentName": "Student's full name",
+    "studentNamePh": "e.g. Youssef Ahmed Mohamed Ali",
+    "dob": "Date of birth",
+    "gender": "Gender",
+    "male": "Male",
+    "female": "Female",
+    "prevSchool": "Previous school / grade",
+    "prevSchoolPh": "e.g. Grade 3 – … School",
+    "guardianHeading": "Guardian details",
+    "guardianName": "Guardian's name",
+    "phone": "Phone number (WhatsApp)",
+    "countryCode": "Country code",
+    "phonePh": "5xxxxxxxx",
+    "email": "Email",
+    "emirate": "Emirate",
+    "area": "Area / district",
+    "areaPh": "e.g. Al Nuaimiya, Al Rashidiya…",
+    "siblings": "Siblings enrolled at the institute",
+    "siblingsNote": "Great! You're eligible for the sibling discount — the amount will be confirmed by the administration.",
+    "notes": "Additional notes",
+    "notesPh": "Anything you'd like to add: health conditions, special needs, questions…",
+    "optional": "optional",
+    "required": "required",
+    "choose": "Choose…",
+    "summaryHeading": "Review your request",
+    "invoiceTitle": "Preliminary invoice",
+    "item": "Item",
+    "amount": "Amount",
+    "tuition": "Tuition fees",
+    "books": "Books",
+    "booksOneShort": "one term",
+    "booksBothShort": "both terms",
+    "registration": "Registration fee",
+    "uniform": "Uniform (5 pieces)",
+    "busBooking": "Bus booking fee",
+    "transport": "Transport",
+    "notIncluded": "Not required",
+    "total": "Preliminary total",
+    "disclaimer": "Sibling discounts and installment details are confirmed with the administration.",
+    "orderId": "Request number",
+    "packageSection": "Selected package",
+    "studentSection": "Student",
+    "guardianSection": "Guardian",
+    "edit": "Edit",
+    "send": "Send request via WhatsApp",
+    "sendHint": "WhatsApp will open with a ready-made message containing every detail — just tap \"Send\".",
+    "back": "Back",
+    "next": "Next",
+    "reset": "Clear data and start over",
+    "resetConfirm": "Clear everything you've entered and start over?",
+    "saved": "Your details are saved automatically on this device so nothing gets lost.",
+    "liveTotal": "Preliminary total",
+    "errors": {
+      "summary": "Please review the highlighted fields before continuing.",
+      "stage": "Please choose a school stage.",
+      "track": "Please choose a track (Arabic or Languages).",
+      "required": "This field is required.",
+      "name": "Please enter the full name (at least two names, letters only).",
+      "dob": "Please enter a valid date of birth.",
+      "dobRange": "This date of birth doesn't match a student's age at the institute (2 to 20 years).",
+      "gender": "Please choose the gender.",
+      "phone": "Invalid phone number — enter 7 to 12 digits without the country code.",
+      "email": "Invalid email format (e.g. name@example.com).",
+      "emirate": "Please choose the emirate."
+    },
+    "wa": {
+      "title": "🏛️ New registration request – Abnauona Institute Abroad",
+      "sep": "━━━━━━━━━━━━━━",
+      "studentMale": "👦 Student name",
+      "studentFemale": "👧 Student name",
+      "dob": "🎂 Date of birth",
+      "gender": "🚻 Gender",
+      "prevSchool": "🏫 Previous school/grade",
+      "stage": "📚 Stage",
+      "track": "Track",
+      "tuition": "💰 Tuition",
+      "books": "📖 Books",
+      "registration": "📝 Registration",
+      "uniform": "👕 Uniform",
+      "transport": "🚌 Transport",
+      "busBooking": "bus booking",
+      "total": "💵 Preliminary total",
+      "payment": "💳 Payment method",
+      "siblings": "👨‍👩‍👧 Siblings at the institute",
+      "guardian": "👤 Guardian",
+      "phone": "📞 Phone",
+      "email": "✉️ Email",
+      "area": "📍 Area",
+      "notes": "📝 Notes",
+      "orderId": "🔖 Request no.",
+      "none": "None"
+    }
+  },
+
+  "thanks": {
+    "title": "Thank you! Your request is on its way",
+    "lead": "Your registration request has been prepared and sent to the administration via WhatsApp. Keep your request number for follow-up.",
+    "orderLabel": "Request number",
+    "resend": "WhatsApp didn't open? Send again",
+    "noOrder": "We couldn't find a recent request on this device — you can start a new one.",
+    "nextTitle": "What happens next?",
+    "next": [
+      { "title": "Confirmation", "text": "The administration contacts you on WhatsApp within one working day to confirm the seat." },
+      { "title": "Discounts & installments", "text": "We confirm the sibling discount and installment schedule with you, if applicable." },
+      { "title": "Complete the file", "text": "Visit the institute with the required documents and pay the registration fee." },
+      { "title": "Ready for day one", "text": "Collect books and uniform, and get your bus time and route." }
+    ],
+    "docsTitle": "Required documents",
+    "docs": [
+      "Copy of the student's birth certificate",
+      "Passport copies of the student and guardian",
+      "Copy of the UAE residence visa / Emirates ID for the student and guardian",
+      "Copy of the guardian's Egyptian national ID card",
+      "6 recent passport-size photos of the student (white background)",
+      "Last school-year certificate or student file (except kindergarten)"
+    ],
+    "docsNote": "Preliminary list — the administration may request additional documents depending on the stage.",
+    "home": "Back to home",
+    "another": "Register another child"
+  },
+
+  "contact": {
+    "title": "Contact Us",
+    "lead": "We're happy to answer all your questions — visit us in Ajman or message us any time.",
+    "infoTitle": "Contact details",
+    "address": "Al Tallah Street – Ajman – United Arab Emirates",
+    "addressLabel": "Address",
+    "phonesLabel": "Phone",
+    "whatsappLabel": "Booking WhatsApp",
+    "emailLabel": "Email",
+    "websiteLabel": "Website",
+    "formTitle": "Send us a message",
+    "name": "Name",
+    "phone": "Phone number",
+    "subject": "Subject",
+    "subjects": {
+      "registration": "Registration enquiry",
+      "fees": "Fees & installments",
+      "transport": "Transport",
+      "other": "Something else"
+    },
+    "message": "Your message",
+    "sendWhatsapp": "Send via WhatsApp",
+    "sendEmail": "Send via email",
+    "formNote": "We don't store your data on this website — your message is sent directly via WhatsApp or email.",
+    "waTitle": "✉️ New message from the Abnauona website",
+    "errors": {
+      "name": "Please enter your name.",
+      "phone": "Invalid phone number.",
+      "message": "Please write your message (at least 10 characters)."
+    },
+    "mapTitle": "Find us on the map",
+    "mapFrameTitle": "Google map showing Abnauona Institute in Ajman",
+    "directions": "Get directions"
+  },
+
+  "footer": {
+    "about": "The first educational institute in the UAE serving the children of the Egyptian community and Egyptian Embassy students — authentic Egyptian education by outstanding teachers.",
+    "quickLinks": "Quick links",
+    "parents": "For parents",
+    "contactTitle": "Contact us",
+    "follow": "Follow us",
+    "rights": "© {year} Abnauona Institute Abroad. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions"
+  },
+
+  "consent": {
+    "text": "We use cookies to analyse traffic and improve your experience on this website.",
+    "accept": "Accept",
+    "decline": "Decline",
+    "more": "Privacy policy"
+  },
+
+  "notFound": {
+    "code": "404",
+    "title": "Looks like you got lost in the temple!",
+    "text": "The page you're looking for doesn't exist or has moved — even the Pharaohs needed a map sometimes.",
+    "home": "Back to home",
+    "book": "Book a seat"
+  },
+
+  "legal": {
+    "updated": "Last updated: {date}",
+    "templateNote": "This is an editable template — we recommend a legal review before publishing.",
+    "privacy": {
+      "title": "Privacy Policy",
+      "intro": "Abnauona Institute Abroad (\"the Institute\") respects the privacy of its website visitors and parents. This policy explains how data is handled when you use the website.",
+      "sections": [
+        { "h": "Data we collect", "p": "When you fill in the booking or contact form, data such as the student's name, date of birth and stage, and the guardian's name, phone number, email and area are collected. This data is not sent to the website's servers; it is passed directly to WhatsApp or email when you press the send button." },
+        { "h": "Temporary storage on your device", "p": "To avoid losing data while moving between booking steps, the website temporarily saves what you enter in your browser (localStorage) for up to 3 days. You can clear it at any time using the \"Clear data\" button." },
+        { "h": "How we use data", "p": "Data is used only to process your registration request and contact you about it. It is never sold or shared with third parties for marketing purposes." },
+        { "h": "Cookies and analytics", "p": "The website may use analytics tools such as Google Analytics and Meta Pixel to measure traffic and improve the service. They are only activated after you give consent." },
+        { "h": "Your rights", "p": "You may request access to, correction of, or deletion of your data from the Institute's records by contacting us by email or WhatsApp." },
+        { "h": "Contact", "p": "For any questions about this policy: abnauna2021@yahoo.com" }
+      ]
+    },
+    "terms": {
+      "title": "Terms & Conditions",
+      "intro": "By using the Abnauona Institute Abroad website you agree to the following terms.",
+      "sections": [
+        { "h": "Nature of booking requests", "p": "A booking request sent through the website is preliminary. It becomes a final registration only after confirmation by the administration, submission of the required documents and payment of the applicable fees." },
+        { "h": "Prices", "p": "Prices shown are the announced fees for the 2026/2027 school year in UAE dirhams, and the invoice generated by the website is an estimate. Sibling discounts and installment details are set and confirmed with the administration." },
+        { "h": "Academic dates", "p": "Dates published in the academic calendar may change according to official decisions; any change will be announced on the website." },
+        { "h": "Intellectual property", "p": "All website content, including text, images and logos, belongs to Abnauona Institute Abroad and may not be used without written permission." },
+        { "h": "Accuracy of information", "p": "The guardian is responsible for the accuracy of the data entered in the booking form." },
+        { "h": "Changes to these terms", "p": "The Institute may amend these terms at any time; changes take effect from the date they are published on the website." }
+      ]
+    }
+  }
+}

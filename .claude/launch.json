@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "abnauona",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["scripts/serve.js", "--watch"],
+      "port": 4173
+    }
+  ]
+}

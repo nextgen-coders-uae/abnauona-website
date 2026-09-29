@@ -1,0 +1,8 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+# Headers and per-language 404 rules are generated into dist/_headers and dist/_redirects by the build.

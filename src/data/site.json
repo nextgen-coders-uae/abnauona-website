@@ -1,0 +1,143 @@
+{
+  "_readme": "ملف البيانات الموحد — عدّل الأسعار والمواعيد وبيانات التواصل من هنا فقط ثم أعد البناء (npm run build). Single source of truth for prices, dates and contacts.",
+
+  "site": {
+    "url": "https://abnaona-academy.com",
+    "defaultLang": "ar",
+    "languages": ["ar", "en"],
+    "academicYear": "2026/2027",
+    "currency": "AED",
+    "themeColor": "#261A55",
+    "orderPrefix": "ABN"
+  },
+
+  "legalUpdated": "2026-09-29",
+
+  "announcement": {
+    "enabled": true,
+    "id": "registration-2026-2027"
+  },
+
+  "contact": {
+    "whatsapp": "971555515049",
+    "phones": [
+      { "display": "06 5294 767", "tel": "+97165294767" },
+      { "display": "055 5669 315", "tel": "+971555669315" },
+      { "display": "055 5515 049", "tel": "+971555515049" }
+    ],
+    "callPhone": "+971555515049",
+    "email": "abnauna2021@yahoo.com",
+    "website": "abnaona-academy.com",
+    "address": {
+      "street": "Al Tallah Street",
+      "city": "Ajman",
+      "country": "AE"
+    },
+    "map": {
+      "query": "Al Tallah, Ajman, United Arab Emirates",
+      "placeUrl": "",
+      "lat": null,
+      "lng": null
+    }
+  },
+
+  "social": {
+    "facebook": "",
+    "instagram": "",
+    "youtube": "",
+    "tiktok": "",
+    "x": ""
+  },
+
+  "analytics": {
+    "googleAnalyticsId": "",
+    "metaPixelId": "",
+    "requireConsent": true
+  },
+
+  "stats": [
+    { "id": "years", "value": 5, "suffix": "+" },
+    { "id": "students", "value": 500, "suffix": "+" },
+    { "id": "teachers", "value": 35, "suffix": "+" },
+    { "id": "activities", "value": 12, "suffix": "+" }
+  ],
+
+  "fees": {
+    "stages": [
+      { "id": "kg",   "program": "kg",        "arabic": 5500, "languages": 6000, "booksPerTerm": 150 },
+      { "id": "p13",  "program": "primary",   "arabic": 5500, "languages": 6500, "booksPerTerm": 250 },
+      { "id": "p46",  "program": "primary",   "arabic": 6000, "languages": 7000, "booksPerTerm": 250 },
+      { "id": "prep", "program": "prep",      "arabic": 7000, "languages": 8000, "booksPerTerm": 300 },
+      { "id": "sec",  "program": "secondary", "arabic": 8000, "languages": 9000, "booksPerTerm": 300 }
+    ],
+    "extras": {
+      "uniform": 300,
+      "registration": 300,
+      "busBooking": 200
+    },
+    "transport": [
+      { "id": "ajman",   "price": 3000 },
+      { "id": "sharjah", "price": 3500 },
+      { "id": "dubai",   "price": 4500 }
+    ],
+    "siblingDiscount": true,
+    "installments": true
+  },
+
+  "programs": [
+    { "id": "kg",        "icon": "blocks", "tone": "royal" },
+    { "id": "primary",   "icon": "pencil", "tone": "lapis" },
+    { "id": "prep",      "icon": "flask",  "tone": "red" },
+    { "id": "secondary", "icon": "cap",    "tone": "gold" }
+  ],
+
+  "calendar": {
+    "timezone": "Asia/Dubai",
+    "events": [
+      { "id": "year-start", "date": "2026-09-14", "type": "start" },
+      { "id": "t1-midterm", "date": "2026-11-02", "type": "midterm" },
+      { "id": "t1-final",   "date": "2027-01-01", "type": "final" },
+      { "id": "t1-end",     "date": "2027-01-07", "type": "end" },
+      { "id": "t2-start",   "date": "2027-01-25", "type": "start" },
+      { "id": "t2-midterm", "date": "2027-03-22", "type": "midterm" },
+      { "id": "t2-final",   "date": "2027-05-07", "type": "final" },
+      { "id": "year-end",   "date": "2027-05-14", "type": "end" }
+    ]
+  },
+
+  "booking": {
+    "countryCodes": ["+971", "+20", "+966", "+965", "+974", "+968", "+973"],
+    "defaultCountryCode": "+971",
+    "emirates": ["ajman", "sharjah", "dubai", "abudhabi", "uaq", "rak", "fujairah"],
+    "maxSiblings": 5,
+    "storageDays": 3
+  },
+
+  "images": {
+    "facade-night":    { "dir": "photos",  "widths": [640, 1024, 1600, 2048], "w": 2048, "h": 1356 },
+    "facade-day":      { "dir": "photos",  "widths": [480, 800, 1280, 1800],  "w": 1800, "h": 1192 },
+    "corridor":        { "dir": "photos",  "widths": [480, 800, 1280, 1800],  "w": 1800, "h": 1192 },
+    "graduation-2025": { "dir": "photos",  "widths": [480, 680],              "w": 680,  "h": 453 },
+    "gate-detail":     { "dir": "photos",  "widths": [480, 800, 1100],        "w": 1100, "h": 876 },
+    "sign-night":      { "dir": "photos",  "widths": [480, 800, 1040],        "w": 1040, "h": 590 },
+    "column-detail":   { "dir": "photos",  "widths": [400],                   "w": 400,  "h": 1316 },
+    "poster-calendar": { "dir": "posters", "widths": [540, 1054],             "w": 1054, "h": 1492 },
+    "poster-fees":     { "dir": "posters", "widths": [480, 678],              "w": 678,  "h": 960 }
+  },
+
+  "gallery": [
+    { "id": "facade-night",    "cat": "building",   "image": "facade-night" },
+    { "id": "column-detail",   "cat": "building",   "image": "column-detail" },
+    { "id": "graduation-2025", "cat": "graduation", "image": "graduation-2025" },
+    { "id": "gate-detail",     "cat": "building",   "image": "gate-detail" },
+    { "id": "ph-drawing",      "cat": "activities", "placeholder": { "icon": "palette", "tone": "royal" } },
+    { "id": "corridor",        "cat": "building",   "image": "corridor" },
+    { "id": "ph-music",        "cat": "activities", "placeholder": { "icon": "music", "tone": "lapis" } },
+    { "id": "ph-celebration",  "cat": "events",     "placeholder": { "icon": "balloon", "tone": "red" } },
+    { "id": "sign-night",      "cat": "building",   "image": "sign-night" },
+    { "id": "ph-sports",       "cat": "activities", "placeholder": { "icon": "trophy", "tone": "gold" } },
+    { "id": "facade-day",      "cat": "building",   "image": "facade-day" },
+    { "id": "ph-trip",         "cat": "activities", "placeholder": { "icon": "pyramid", "tone": "copper" } },
+    { "id": "ph-national-day", "cat": "events",     "placeholder": { "icon": "star", "tone": "royal" } }
+  ]
+}

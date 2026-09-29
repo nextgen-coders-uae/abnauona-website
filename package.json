@@ -1,0 +1,16 @@
+{
+  "name": "abnauona-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bilingual (Arabic RTL / English LTR) website for Abnauona Institute Abroad — static, zero-dependency build.",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "build:strict": "node scripts/build.js --strict",
+    "dev": "node scripts/serve.js --watch",
+    "start": "node scripts/serve.js",
+    "images": "python scripts/optimize-images.py"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

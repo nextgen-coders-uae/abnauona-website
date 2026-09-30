@@ -24,7 +24,6 @@ module.exports = (ctx) => {
         ${c.btn(ctx, { href: url('fees'), label: t('hero.ctaFees'), variant: 'outline-light', iconEnd: 'arrow', size: 'lg' })}
       </div>
     </div>
-    ${c.countdown(ctx, 'countdown--glass hero-countdown')}
   </div>
 </section>
 
